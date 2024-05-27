@@ -1,12 +1,12 @@
 ---
-date: '2021-02-14'
+date: '2024-05-27'
 title: 'Senior Cloud Architect'
-company: 'Nordcloud'
+company: 'Playground Tech'
 location: 'Sweden'
-range: 'Feb 2021 - Present'
-url: 'https://www.nordcloud.com/'
+range: 'Feb 2023 - Present'
+url: 'https://playgroundtech.io/'
 ---
 
-- Working as an AWS Cloud Architect in multiple projects and responsibilities include creating landing zones for migrations of small scale and long running work loads.
-- Designing applications to run in cloud and enabling CD - CI using different tools like Jenkins , Code Commit and Github workflows.
-- Involved in advisory works in cloud computing technologies to empower customers onboarding their business values into cloud.
+- Implementing DevOps for customers using AWS and various CI/CD systems involves creating a streamlined, efficient, and automated software development and deployment process.
+- Working with the Well-Architected Framework for multiple Nordic customers to help make their AWS systems more resilient and observable.
+- Improving the ecosystem of Playground Tech offerings by implementing multiple solution constructs with AWS

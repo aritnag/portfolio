@@ -60,18 +60,18 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Aritra Nag.</h2>;
-  const three = <h3 className="big-heading">I create multi cloud solutions.</h3>;
+  const three = <h3 className="big-heading">I am a builder and create multi cloud solutions for nordics customers.</h3>;
   const four = (
     <>
       <p>
         I'm a Cloud Architect and my super skills are designing solution patterns for deploying enterprise level architectures in the Cloud.
-        Currently, I'm focused on building cloud based solutions  for 
+        Currently, I'm focused on building cloud based solutions for 
         {' '}
-        <a href="https://www.husqvarna.com/" target="_blank" rel="noreferrer">
-          Husqvarna
+        <a href="https://www.dema.ai/" target="_blank" rel="noreferrer">
+          Dema AI
         </a> and also an Senior Cloud Architect for {' '}
-        <a href="https://www.nordcloud.com/" target="_blank" rel="noreferrer">
-          Nordcloud
+        <a href="https://playgroundtech.io/" target="_blank" rel="noreferrer">
+          Playground Tech
         </a>
         .
       </p>
@@ -80,7 +80,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://dzone.com/users/3475826/aritranag20.html"
+      href="https://medium.com/@aritra.nag"
       target="_blank"
       rel="noreferrer">
       Check out my Blog!

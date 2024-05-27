@@ -164,7 +164,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Aritra and I enjoy producing cloud agnostic infrastructure solutions. I am having more than 11 years of IT experience where I have got working experiences in Full stack technologies like Java, Python, TypeScript.
+              Hello! My name is Aritra and I enjoy producing cloud agnostic infrastructure solutions. I am having more than 13 years of IT experience where I have got working experiences in Full stack technologies like Java, Python, TypeScript, AWS, GCP.
               </p>
               <p>  
               I'm currently working as Senior Cloud Architect for an automation company where i build AWS cloud infrastructure and support development teams with producing solution patterns for deploying Java/Spring based microservices.</p>
@@ -175,13 +175,19 @@ const About = () => {
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://www.infosys.com/">an consulting industry</a>,{' '}
               <a href="https://www2.deloitte.com/">one of the big 4 audit enterprise</a>,{' '}
-              <a href="https://www.ericsson.com/">a huge corporation</a>, and{' '}
-              <a href="https://bico.com/">a start up</a>. My
+              <a href="https://www.ericsson.com/">a huge corporation</a>,{' '}
+              <a href="https://bico.com/">a start up</a>, and{' '}
+              <a href="https://nordcloud.com/">a nordics consulting company </a>. My
               main focus these days is upscaling customers cloud competence, building multi cloud solutions 
-                at <a href="https://nordcloud.com/">Nordcloud</a> for a variety of
+                at <a href="https://playgroundtech.io/">Playground Tech</a> for a variety of
               clients.
             </p>
-
+            <p>
+              I  recently presented{' '}
+              <a href="https://www.linkedin.com/posts/aritra-nag-1571a278_aws-community-opentelemetry-activity-7193638430998720512-pwGP?utm_source=share&utm_medium=member_desktop"> AWS Community Day Nordics,2024</a>,{' '}
+              that showcases the powers of OpenTelemetry for shipping logs and metrics to AWS CloudWatch
+              &amp; Java.
+            </p>
             <p>
               I also recently presented{' '}
               <a href="https://www.linkedin.com/posts/aritra-nag-1571a278_awssummit-infrastructureascode-cdk-activity-6930426514450591745-wpH0?utm_source=linkedin_share&utm_medium=member_desktop_web"> AWS Summit Stockholm,2022</a>,{' '}
